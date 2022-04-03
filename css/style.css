@@ -175,11 +175,11 @@ body {
   animation-fill-mode: backwards;
 }
 
-@media (max-width: 780px) {
+@media (max-width: 650px) {
   .heading-primary--main,
   .heading-primary--sub,
   .heading-primary {
-    font-size: 16px;
+    font-size: 12.4px;
     letter-spacing: 0.6rem;
   }
 }
